@@ -7,7 +7,7 @@
 Bike Share Project
 
 ### Description
-This project offer a solution for bike sharing
+This project offer a solution for bike sharing. It allows the users to reserve a bike or to propose a bike for sharing.
 
 ### Files used
 Include the files used
