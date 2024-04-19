@@ -7,7 +7,7 @@
 Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+This project offer a solution for bike sharing
 
 ### Files used
 Include the files used
